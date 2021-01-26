@@ -34,7 +34,7 @@ git status
 ```
    
    
-### 4. git status
+### 4. git add
 파일을 준비영역(Staging Area)으로 옮긴다. <b>GitHub와 연동하려면 git remote로 원격 저장소와 연결해야 한다.</b>
 ```git
 // a.html 파일 추가
